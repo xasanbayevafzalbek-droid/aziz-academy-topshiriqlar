@@ -1,0 +1,2 @@
+"Salom"
+print("Salom!")
