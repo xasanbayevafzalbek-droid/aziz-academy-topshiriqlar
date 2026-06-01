@@ -1,0 +1,5 @@
+n = int(input())
+s = list(map(int, input().split()))
+m_q = min(s)
+m_i = s.index(m_q)
+print(m_i)
