@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — XASANBAYEV AVZALBEK
+# 🎓 Aziz Academy — Xasanbayev Avzalbek
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **19295**
-- 📤 GitHubga yuborilgan topshiriqlar: **453**
+- ⭐ Jami ball: **19460**
+- 📤 GitHubga yuborilgan topshiriqlar: **454**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-15 03:09</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 11:19</sub>
